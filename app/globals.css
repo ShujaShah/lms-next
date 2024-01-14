@@ -7,6 +7,7 @@ body :root {
   height: 100%;
 }
 
+/*tailwind config*/
 @layer base {
   :root {
     --background: 0 0% 100%;
